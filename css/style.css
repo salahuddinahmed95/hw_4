@@ -1,0 +1,45 @@
+h1{
+
+color: blue;
+
+}
+
+.h1{
+color: aqua;
+
+
+}
+
+#h1{
+
+  color: blueviolet;
+}
+
+
+div p{
+
+color: blue;
+border: 10px;
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+
+
+.map{
+
+width: 50%;
+border: 2px;
+
+}
+
+.video{
+
+  width="560px" 
+  height="315px"
+  
+
+
+}
